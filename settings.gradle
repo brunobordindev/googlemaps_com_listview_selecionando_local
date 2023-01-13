@@ -1,0 +1,2 @@
+rootProject.name = "GoogleMapsComListViewSelecionandoLocalMap"
+include ':app'
